@@ -39,7 +39,12 @@ header {
     background-color: blue;
     color: white;
   }
-  
+   
+  /* QUESTÃO 9 - Borda superior para o rodapé */
+  footer {
+    border-top: 2px solid red;
+  }
+   
 
  
   
