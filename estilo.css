@@ -8,3 +8,9 @@ header {
     font-family: serif;
   }
   
+  /* QUESTÃO 3 - Links da barra de navegação em negrito */
+  nav a {
+    font-weight: bold;
+  }
+  
+
