@@ -18,5 +18,11 @@ header {
     padding: 20px;
   }
   
+  /* QUESTÃO 5 - Espaçamento entre linhas para o conteúdo dentro da seção com id conteudo */
+  #conteudo {
+    line-height: 1.5;
+  }
+  
+  
 
 
