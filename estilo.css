@@ -28,7 +28,13 @@ header {
     border: 1px solid grey;
     padding: 10px;
   }
+    
+  /* QUESTÃO 7 - Cor de texto para todos os parágrafos */
+  p {
+    color: green;
+  }
   
+
  
   
 
