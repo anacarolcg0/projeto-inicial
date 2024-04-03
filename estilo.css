@@ -2,3 +2,9 @@
 header {
     background-color: blue;
   }
+    
+  /* QUESTÃO 2 - Fonte serifada para todos os títulos */
+  h1, h2 {
+    font-family: serif;
+  }
+  
