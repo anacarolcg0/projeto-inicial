@@ -22,7 +22,14 @@ header {
   #conteudo {
     line-height: 1.5;
   }
+   
+  /* QUESTÃO 6 - Estilizando o formulário de contato */
+  form {
+    border: 1px solid grey;
+    padding: 10px;
+  }
   
+ 
   
 
 
